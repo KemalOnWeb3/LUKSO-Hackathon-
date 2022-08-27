@@ -1,0 +1,5 @@
+address: '0x68F5be04e0Fb589FF2BD5E0feBfe168C14b4348f',
+  privateKey: '0x7d05989b88e6caff128c969683320b0964930f048a3cb51cf3b084bdb2abd850',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt]

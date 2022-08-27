@@ -1,0 +1,7 @@
+{
+"type": "module",
+  "dependencies": {
+    "@lukso/lsp-factory.js": "^2.3.3",
+    "web3": "^1.7.5"
+  }
+}
